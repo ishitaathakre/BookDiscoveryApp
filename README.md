@@ -54,8 +54,8 @@ A Flutter application for exploring and searching books using the Gutendex API.
 ## Steps
 1. Clone this repository:
    ```
-   git clone https://github.com/username/book-discovery-app.git
-   cd book-discovery-app
+   git clone https://github.com/ishitaathakre/BookDiscoveryApp.git
+   cd BookDiscoveryApp
    ```
 
 2. Install dependencies:
